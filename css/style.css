@@ -31,7 +31,7 @@ header > .container {
 .navbar-brand {
   position: absolute;
   width: 100%;
-  max-width: 100px;
+  max-width: 240px;
   top: 10px;
   left: 50%;
   transform: translateX(-50%);
@@ -246,7 +246,7 @@ footer{
 /* Media Queries */
 @media (min-width: 576px) {
   .navbar-brand {
-    max-width: 150px;
+    max-width: 240px;
   }
   .hamburger-menu {
     top: 35px;
